@@ -99,6 +99,6 @@ This project is open-source and available under the MIT License.
 
 Lawal Hussein Taiwo  
 Python Django Developer  
-GitHub: https://github.com/your-username  
-LinkedIn: https://linkedin.com/in/your-link  
-Portfolio: https://yourportfolio.com
+GitHub: https://github.com/Tboiii-123 
+LinkedIn: https://linkedin.com/in/lawal-hussein  
+Portfolio: https://tboiii-porfolio.vercel.app/
