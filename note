@@ -1,0 +1,27 @@
+ Project Plan and Steps
+🛠️ Step 1: Project Setup
+Create a Django project and app
+
+Install dependencies: djangorestframework, drf_yasg, django-cors-headers, django-environ
+
+👤 Step 2: Custom User Model
+Use AbstractBaseUser to store email, password, first name, last name, DOB, age
+
+🔐 Step 3: Authentication
+Token-based or JWT authentication for Signup/Login
+
+📋 Step 4: Task Model
+Fields: task_name, description, status (choices: Incomplete, Complete), user (ForeignKey)
+
+🔄 Step 5: CRUD Operations
+Create, Retrieve, Update (status/details), Delete, and List Tasks
+
+🔍 Step 6: Filtering Tasks
+Filter by status using query parameters
+
+📧 Step 7: Email Notification
+Send email when status is updated to "Complete"
+
+📑 Step 8: Swagger Integration
+Auto-generate API docs with drf_yasg
+
